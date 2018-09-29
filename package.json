@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Boris Dai"
+  },
+  "bugs": {
+    "url": "https://github.com/defunctzombie/node-util/issues"
+  },
+  "description": "Angular1.x dirty check",
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/defunctzombie/node-util",
+  "keywords": [
+    "dirtyCheck",
+    "Angular"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "ngDirtyCheck",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/defunctzombie/node-util.git"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+  },
+  "version": "1.0.0"
+}
